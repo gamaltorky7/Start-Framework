@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <div>
+    <div className="contact-page">
       <div className="container py-5 text-center">
         <div className="row">
           <h1 className="text-center text-uppercase fw-bold">

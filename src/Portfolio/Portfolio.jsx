@@ -20,7 +20,7 @@ export default function Portfolio() {
 
   
   return (
-    <div>
+    <div className="port-page">
       <div className="container py-3 ">
         <div className="row py-4 port">
           <h1 className="text-center text-uppercase fw-bold">

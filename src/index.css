@@ -19,8 +19,12 @@ nav{
 }
 
 /* home page */
-.home-page{
+.home-page ,.about-page{
     background-color: #1ABC9C;
+    padding: 100px 0;
+}
+.port-page , .contact-page{
+    padding: 100px 0;
 }
 
 .star-contain{
