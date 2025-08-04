@@ -6,7 +6,7 @@ export default function Navbar() {
 
 
 
-  return <nav className="navbar navbar-expand-lg navbar-light text-white py-3">
+  return <nav className="navbar navbar-expand-lg navbar-light text-white py-3 fixed-top">
   <div className="container">
     <Link className="navbar-brand text-white fs-2 fw-bold" to="">START FRAMEWORK</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
